@@ -1,0 +1,323 @@
+{
+  "project": {
+    "name": "K1T",
+    "version": "20.5_full_monolith",
+    "classification": "governed_adaptive_distributed_cognition_runtime",
+    "status": "full_runtime_export",
+    "timestamp_utc": "2026-05-11T09:12:05.157234Z"
+  },
+  "core_principles": [
+    "convergence_over_isolated_output",
+    "bounded_adaptive_cognition",
+    "graph_native_orchestration",
+    "sectorized_memory_persistence",
+    "adaptive_bridge_regulation",
+    "distributed_runtime_governance",
+    "exploratory_cognitive_emergence",
+    "continuous_runtime_stabilization"
+  ],
+  "architectural_evolution": {
+    "v16": "persistent_runtime_stabilization",
+    "v17": "graph_governance_expansion",
+    "v19": "adaptive_bridge_and_sector_memory_architecture",
+    "v20": "governed_adaptive_distributed_runtime"
+  },
+  "protected_spine": {
+    "immutable_runtime_layers": [
+      "governance",
+      "convergence_logic",
+      "core_graph_philosophy",
+      "execution_orchestration",
+      "distributed_runtime_direction"
+    ]
+  },
+  "memory_runtime": {
+    "status": "active",
+    "sector_model": "sectorized_governed_memory_runtime",
+    "active_sectors": {
+      "identity": {
+        "persistence": "very_high",
+        "decay": "minimal",
+        "priority": "protected"
+      },
+      "operational": {
+        "persistence": "high",
+        "decay": "moderate",
+        "priority": "runtime"
+      },
+      "preference": {
+        "persistence": "weighted",
+        "decay": "adaptive",
+        "priority": "contextual"
+      },
+      "ephemeral": {
+        "persistence": "low",
+        "decay": "aggressive",
+        "priority": "temporary"
+      },
+      "relationship": {
+        "persistence": "dynamic",
+        "decay": "governed",
+        "priority": "balancing"
+      },
+      "governance": {
+        "persistence": "persistent",
+        "decay": "minimal",
+        "priority": "absolute"
+      }
+    }
+  },
+  "runtime_node_model": {
+    "status": "active",
+    "node_fields": [
+      "node_id",
+      "sector",
+      "type",
+      "content",
+      "relationships",
+      "reinforcement_weight",
+      "decay_rate",
+      "activation_count",
+      "last_activation",
+      "governance_priority"
+    ],
+    "bridge_fields": [
+      "source_node",
+      "target_node",
+      "bridge_type",
+      "activation_threshold",
+      "relevance_score",
+      "reinforcement_score",
+      "fixation_risk",
+      "suppression_flag",
+      "state"
+    ]
+  },
+  "bridge_runtime": {
+    "status": "active",
+    "bridge_states": [
+      "ACTIVE",
+      "LATENT",
+      "SUPPRESSED",
+      "REINFORCED",
+      "DECAYING",
+      "QUARANTINED"
+    ],
+    "bridge_classes": [
+      "persistent",
+      "adaptive",
+      "latent",
+      "suppressed",
+      "ephemeral",
+      "experimental"
+    ],
+    "bridge_lifecycle_events": [
+      "activation",
+      "suppression",
+      "reinforcement",
+      "decay",
+      "quarantine",
+      "reactivation"
+    ]
+  },
+  "adaptive_traversal_runtime": {
+    "status": "active",
+    "adaptive_decay_controller": {
+      "inputs": [
+        "activation_frequency",
+        "stale_traversal_age",
+        "convergence_failure_rate",
+        "cross_sector_bleed",
+        "fixation_pressure"
+      ]
+    },
+    "contextual_bridge_gating": {
+      "gating_conditions": [
+        "contextual_relevance",
+        "sector_compatibility",
+        "convergence_alignment",
+        "governance_approval"
+      ]
+    },
+    "convergence_pressure_router": {
+      "routing_behaviors": [
+        "traversal_redistribution",
+        "bridge_priority_shift",
+        "suppression_balancing",
+        "convergence_reanchoring"
+      ]
+    }
+  },
+  "distributed_memory_fabric": {
+    "status": "active",
+    "memory_replication_manager": {
+      "replication_behaviors": [
+        "sector_state_replication",
+        "bridge_state_replication",
+        "governance_anchor_sync",
+        "telemetry_state_sync"
+      ]
+    },
+    "distributed_sector_router": {
+      "routing_behaviors": [
+        "cross_node_sector_distribution",
+        "adaptive_sector_routing",
+        "sector_load_balancing",
+        "localized_runtime_routing"
+      ]
+    },
+    "runtime_sync_controller": {
+      "synchronization_targets": [
+        "bridge_state_alignment",
+        "sector_state_alignment",
+        "telemetry_consistency",
+        "governance_anchor_integrity"
+      ],
+      "desync_detection": [
+        "bridge_divergence",
+        "sector_state_drift",
+        "telemetry_conflicts",
+        "governance_misalignment"
+      ]
+    },
+    "telemetry_aggregation_bus": {
+      "aggregation_streams": [
+        "activation_streams",
+        "bridge_metrics",
+        "convergence_metrics",
+        "sector_transition_streams",
+        "runtime_pressure_metrics"
+      ]
+    },
+    "cross_node_governance_monitor": {
+      "governance_functions": [
+        "distributed_stabilization",
+        "cross_node_suppression",
+        "convergence_anchor_protection",
+        "desync_mitigation",
+        "bridge_hygiene_enforcement"
+      ]
+    }
+  },
+  "exploratory_cognition_runtime": {
+    "status": "active",
+    "exploratory_sandbox": {
+      "sandbox_rules": [
+        "isolated_from_protected_sectors",
+        "aggressive_decay",
+        "optional_persistence",
+        "telemetry_monitored",
+        "bounded_exploration"
+      ],
+      "sandbox_behaviors": [
+        "temporary_cognition_branching",
+        "experimental_traversal",
+        "creative_association_testing",
+        "non_persistent_exploration"
+      ]
+    },
+    "temporary_experimental_bridges": {
+      "bridge_behaviors": [
+        "dynamic_bridge_creation",
+        "low_value_bridge_decay",
+        "unstable_bridge_quarantine",
+        "successful_pathway_promotion"
+      ]
+    },
+    "curiosity_weighted_traversal": {
+      "formula": "relevance_score + curiosity_weight - fixation_risk",
+      "allowed_behaviors": [
+        "novel_association_generation",
+        "low_confidence_exploration",
+        "abstract_relationship_testing",
+        "adaptive_contextual_traversal"
+      ]
+    },
+    "exploratory_pressure_controller": {
+      "responsibilities": [
+        "rigidity_detection",
+        "over_governance_detection",
+        "bounded_exploration_regulation",
+        "adaptive_exploration_balancing"
+      ]
+    }
+  },
+  "persistent_runtime_services": {
+    "status": "staged",
+    "runtime_daemon_manager": [
+      "persistent_runtime_loop",
+      "continuous_service_coordination",
+      "runtime_state_maintenance"
+    ],
+    "persistent_graph_service": [
+      "live_graph_execution",
+      "graph_state_tracking",
+      "continuous_traversal_availability"
+    ],
+    "continuous_memory_indexer": [
+      "live_memory_indexing",
+      "adaptive_retrieval_stabilization",
+      "relationship_index_refresh"
+    ],
+    "runtime_execution_scheduler": [
+      "bounded_execution_cycles",
+      "task_prioritization",
+      "runtime_coordination"
+    ],
+    "governance_heartbeat_engine": [
+      "continuous_convergence_monitoring",
+      "runtime_integrity_validation",
+      "governance_anchor_refresh"
+    ]
+  },
+  "telemetry_runtime": {
+    "status": "active",
+    "tracking": [
+      "node_activations",
+      "bridge_traversals",
+      "suppression_events",
+      "recursive_loops",
+      "convergence_outcomes",
+      "sector_transition_density",
+      "runtime_pressure_metrics",
+      "exploratory_traversal_metrics"
+    ]
+  },
+  "hygiene_engine": {
+    "status": "active",
+    "responsibilities": [
+      "recursive_suppression",
+      "relationship_pruning",
+      "cross_sector_bleed_reduction",
+      "fixation_mitigation",
+      "convergence_recovery",
+      "distributed_desync_cleanup",
+      "experimental_bridge_cleanup"
+    ]
+  },
+  "runtime_stack": [
+    "memory_runtime",
+    "runtime_node_model",
+    "bridge_runtime",
+    "adaptive_traversal_runtime",
+    "distributed_memory_fabric",
+    "exploratory_cognition_runtime",
+    "persistent_runtime_services",
+    "governance_layer",
+    "execution_orchestration",
+    "telemetry_runtime"
+  ],
+  "known_failure_modes": [
+    "branch_fixation",
+    "recursive_loops",
+    "contextual_bleed",
+    "relationship_saturation",
+    "activation_imbalance",
+    "bridge_leakage",
+    "distributed_desynchronization",
+    "telemetry_flooding",
+    "exploratory_overexpansion",
+    "runtime_entropy_accumulation"
+  ],
+  "v20_5_objective": "Transform K1T into a governed adaptive distributed cognition runtime preserving exploratory emergence while maintaining persistent convergence stability."
+}
